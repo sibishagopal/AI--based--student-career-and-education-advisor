@@ -58,8 +58,6 @@ AI-Based-Student-Career-and-Education-Advisor/
 - Resume scoring using AI
 - Mobile application support
 
-## Author
-**Sibisha**
 
 ## License
 This project is developed for educational and academic purposes.
